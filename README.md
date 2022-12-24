@@ -4,7 +4,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="[https://developer.android.com](https://www.linkedin.com/in/sekh-gulam-mainuddin-2614b020b/?lipi=urn%3Ali%3Apage%3Aprofile_common_profile_index%3B0ce95202-0321-4ec2-95f2-2fdc1eccf15b)" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg](https://media.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_100_100/0/1590003577120?e=1680134400&v=beta&t=RjeX6y8Vd-IINNQDq1m7l_1wqELLTQqvJ4Hd4GX-2gM)" alt="LinkedIn" width="40" height="40"/> </a>
+<a href="https://linkedin.com/in/sekh-gulam-mainuddin-2614b020b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sekh-gulam-mainuddin-2614b020b" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sekhgulammainuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sekhgulammainuddin" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sekh_gulam_mainuddin/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sekh_gulam_mainuddin/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
