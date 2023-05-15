@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sekh Gulam Mainuddin</h1>
 <h3 align="center">An open-minded person with a mentality to learn and implement skills in the field of Software Engineering.<br> I am interested in Mobile App Development</h4>
 
+- 🔭 I’m currently working on **TimeShare**
+
+- 🌱 I’m currently learning **Riverpod**
+
+- 👯 I’m looking to collaborate on **Android Development and Cross Platform Development**
+
+- 💬 Ask me about **Kotlin, Java, Dart, DSA**
+
+- 📫 Reach out to me on **sekhgmainuddin@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
