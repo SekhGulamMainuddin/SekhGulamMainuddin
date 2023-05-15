@@ -27,3 +27,20 @@
    <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://newrelic.com/sites/default/files/styles/800w/public/2021-10/mongo_logo.jpg?itok=Z1PabBZB" alt="mongodb" width="100" height="60"/> </a> &nbsp; 
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-2038874-1720087.png?f=avif&w=256" alt="javascript" width="60" height="60"/> </a> &nbsp; 
   </p>
+
+
+<br>
+
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SekhGulamMainuddin&theme=darkhub" alt="Sekh Gulam Mainuddin" /></a>
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=SekhGulamMainuddin&show_icons=true&theme=merko" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SekhGulamMainuddin&theme=chartreuse-dark" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SekhGulamMainuddin&show_icons=true&locale=en&layout=compact&theme=dark" alt="Sekh Gulam Mainuddin" />
+
+  
+</p>
+</br>
+
