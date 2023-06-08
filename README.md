@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sekh Gulam Mainuddin</h1>
-<h3 align="center">An open-minded person with a mentality to learn and implement skills in the field of Software Engineering.<br> I am interested in Mobile App Development</h4>
+<img align="center" height="300" width="100%" alt="Image" src="https://github.com/SekhGulamMainuddin/SekhGulamMainuddin/assets/73953395/590ccc45-8b62-4c77-9752-c471af67bb71"/>
+<p align="right">
+<p>
+  <img align="right" height="300" width="360" alt="GIF" src="https://github.com/SekhGulamMainuddin/SekhGulamMainuddin/assets/73953395/bb3dd4dc-1c58-4f7a-9e7c-7fd2cfa9b12e"/>
+</p>
+  <p>
+    <h1 align="center">Hi 👋, I'm Sekh Gulam Mainuddin</h1>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on **TimeShare**
 
@@ -10,6 +16,8 @@
 - 💬 Ask me about **Kotlin, Java, Dart, DSA**
 
 - 📫 Reach out to me on **sekhgmainuddin@gmail.com**
+    </p>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 
