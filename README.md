@@ -1,5 +1,4 @@
-  <p>
-    <h1 align="center">Hi 👋, I'm Sekh Gulam Mainuddin</h1>
+# Hi 👋, I'm Sekh Gulam Mainuddin
 
 - 🔭 I’m currently working on **TimeShare**
 
@@ -10,7 +9,6 @@
 - 💬 Ask me about **Kotlin, Java, Dart, DSA**
 
 - 📫 Reach out to me on **sekhgmainuddin@gmail.com**
-</p>
 
 <h3 align="left">Connect with me:</h3>
 
