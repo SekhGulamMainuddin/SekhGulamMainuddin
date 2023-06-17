@@ -8,9 +8,7 @@
 
 - 💬 Ask me about **Kotlin, Java, Dart, DSA**
 
-- 📫 Reach out to me on **sekhgmainuddin@gmail.com**
-
-![GitHub Views](https://komarev.com/ghpvc/?username=SekhGulamMainuddin)
+- 📫 Reach out to me at **sekhgmainuddin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
