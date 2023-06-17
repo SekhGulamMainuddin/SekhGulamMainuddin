@@ -10,6 +10,8 @@
 
 - 📫 Reach out to me on **sekhgmainuddin@gmail.com**
 
+![GitHub Views](https://komarev.com/ghpvc/?username=SekhGulamMainuddin)
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -37,10 +39,7 @@
    <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://newrelic.com/sites/default/files/styles/800w/public/2021-10/mongo_logo.jpg?itok=Z1PabBZB" alt="mongodb" width="100" height="60"/> </a> &nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="60"/> </a>
   </p>
-
-
 <br>
-
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SekhGulamMainuddin&show_icons=true&theme=chartreuse-dark" alt="GitHub stats" height="150"/>
