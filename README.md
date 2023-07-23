@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sekh Gulam Mainuddin
 
-- 🔭 I’m currently working on **TimeShare**
+- 🔭 I’m currently working on **Zomato Clone**
 
 - 🌱 I’m currently learning **Riverpod**
 
