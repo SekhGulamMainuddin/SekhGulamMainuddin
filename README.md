@@ -43,8 +43,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SekhGulamMainuddin&show_icons=true&theme=chartreuse-dark" alt="GitHub stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SekhGulamMainuddin&theme=chartreuse-dark" alt="GitHub Streak" height="150"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=SekhGulamMainuddin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Sekh Gulam Mainuddin" />
-
-![](https://komarev.com/ghpvc/?username=SekhGulamMainuddin)
   
 </p>
 </br>
