@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Android Development and Cross Platform Development**
 
-- 💬 Ask me about **Kotlin, Java, Dart, DSA**
+- 💬 Ask me about **Kotlin, Java, Dart**
 
 - 📫 Reach out to me at **sekhgmainuddin@gmail.com**
 
@@ -15,8 +15,6 @@
 <p align="left">
   <a href="mailto:sekhgmainuddin@gmail.com"><img align="left" height="30" width="80" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" /></a>
 <a href="https://linkedin.com/in/sekh-gulam-mainuddin-2614b020b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sekh-gulam-mainuddin-2614b020b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sekhgulammainuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sekhgulammainuddin" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sekh_gulam_mainuddin/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sekh_gulam_mainuddin/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
