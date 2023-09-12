@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Zomato Clone**
 
-- 🌱 I’m currently learning **Riverpod**
+- 🌱 I’m currently learning **Bloc**
 
 - 👯 I’m looking to collaborate on **Android Development and Cross Platform Development**
 
