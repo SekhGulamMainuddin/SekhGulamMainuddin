@@ -1,8 +1,8 @@
 # Hi 👋, I'm Sekh Gulam Mainuddin
 
-- 🔭 I’m currently working on **Zomato Clone**
+- 🔭 I’m currently working on **Coffee App**
 
-- 🌱 I’m currently learning **Bloc**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 👯 I’m looking to collaborate on **Android Development and Cross Platform Development**
 
