@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sekh Gulam Mainuddin
 
-- 🔭 I’m currently working on **Coffee App**
+- 🔭 I’m currently working on **Zomato Clone Using Jetpack Compose**
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
