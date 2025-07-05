@@ -1,10 +1,8 @@
 # Hi 👋, I'm Sekh Gulam Mainuddin
 
-- 🔭 I’m currently working on **Instagram Clone Using Jetpack Compose**
+- 🔭 I’m currently working as **SDE at EMotorad**
 
-- 🌱 I’m currently learning **Jetpack Compose**
-
-- 👯 I’m looking to collaborate on **Android Development and Cross Platform Development**
+- 🌱 I’m currently learning **KMP and CMP**
 
 - 💬 Ask me about **Kotlin, Java, Dart**
 
