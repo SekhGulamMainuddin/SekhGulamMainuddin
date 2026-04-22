@@ -1,70 +1,81 @@
-# Hi 👋, I'm Sekh Gulam Mainuddin
-
-- 🔭 I’m currently working as **SDE at EMotorad**
-
-- 🌱 I’m currently learning **KMP and CMP**
-
-- 💬 Ask me about **Kotlin, Java, Dart**
-
-- 📫 Reach out to me at **sekhgmainuddin@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="mailto:sekhgmainuddin@gmail.com"><img align="left" height="30" width="80" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" /></a>
-<a href="https://linkedin.com/in/sekh-gulam-mainuddin-2614b020b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sekh-gulam-mainuddin-2614b020b" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/SekhGulamMainuddin/SekhGulamMainuddin/assets/73953395/f40c0fdc-4889-4589-96cb-19a133269ab3" alt="dart" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>   
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-2038874-1720087.png?f=avif&w=256" alt="javascript" width="60" height="60"/> </a> &nbsp; 
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="100" height="60"/> </a> &nbsp; 
-   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/8d565/express-js.webp" alt="expressjs" width="60" height="60"/> </a> &nbsp; 
-   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://newrelic.com/sites/default/files/styles/800w/public/2021-10/mongo_logo.jpg?itok=Z1PabBZB" alt="mongodb" width="100" height="60"/> </a> &nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="60"/> </a>
-  </p>
-<br>
-
-## Pinned Repositories
-
-<p>
-  <a href="https://github.com/SekhGulamMainuddin/LearnWithFun">
-  <img align="center" style="margin:2rem 2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SekhGulamMainuddin&repo=LearnWithFun&title_color=ffffff&text_color=c9cacc&icon_color=6bd600&bg_color=000000" />
-</a>
-  &nbsp;
-  <a href="https://github.com/SekhGulamMainuddin/Time-Share">
-  <img align="center" style="margin:2rem 2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SekhGulamMainuddin&repo=Time-Share&title_color=ffffff&text_color=c9cacc&icon_color=6bd600&bg_color=000000" />
-</a>
-</p>
-<p>
-  <a href="https://github.com/SekhGulamMainuddin/Zomato-Clone-Flutter">
-  <img align="center" style="margin:2rem 2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SekhGulamMainuddin&repo=Zomato-Clone-Flutter&title_color=ffffff&text_color=c9cacc&icon_color=6bd600&bg_color=000000" />
-</a>
-  &nbsp;
-  <a href="https://github.com/SekhGulamMainuddin/DSA-Problems">
-  <img align="center" style="margin:2rem 2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SekhGulamMainuddin&repo=DSA-Problems&title_color=ffffff&text_color=c9cacc&icon_color=6bd600&bg_color=000000" />
-</a>
-</p>
-
-
-## Github Stats
+<h1 align="center">Hi 👋, I'm Sekh Gulam Mainuddin</h1>
+<h3 align="center">Software Development Engineer @ EMotorad</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SekhGulamMainuddin&show_icons=true&theme=chartreuse-dark" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SekhGulamMainuddin&theme=chartreuse-dark" alt="GitHub Streak" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=SekhGulamMainuddin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Sekh Gulam Mainuddin" />
+  <img src="https://komarev.com/ghpvc/?username=SekhGulamMainuddin&label=Profile%20views&color=6bd600&style=flat" alt="profile views" />
 </p>
 
-</br>
+---
 
+- 🔭 Currently working as **SDE2 - Android @Dailyround/Marrow**
+- 🌱 Currently learning **KMP & CMP (Kotlin Multiplatform)**
+- 💬 Ask me about **Kotlin · Java · Dart · Android · Flutter**
+- 📫 Reach me at **sekhgmainuddin@gmail.com**
 
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SekhGulamMainuddin&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=6bd600&icon_color=6bd600&text_color=e8e8e8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SekhGulamMainuddin&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=6bd600&text_color=e8e8e8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SekhGulamMainuddin&theme=dark&hide_border=true&background=0a0a0a&ring=6bd600&fire=6bd600&currStreakLabel=6bd600" />
+</p>
+
+---
+
+### 📌 Pinned Projects
+
+<p align="left">
+  <a href="https://github.com/SekhGulamMainuddin/LearnWithFun">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SekhGulamMainuddin&repo=LearnWithFun&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=6bd600&text_color=e8e8e8&icon_color=6bd600" />
+  </a>
+  <a href="https://github.com/SekhGulamMainuddin/Time-Share">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SekhGulamMainuddin&repo=Time-Share&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=6bd600&text_color=e8e8e8&icon_color=6bd600" />
+  </a>
+  <a href="https://github.com/SekhGulamMainuddin/Zomato-Clone-Flutter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SekhGulamMainuddin&repo=Zomato-Clone-Flutter&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=6bd600&text_color=e8e8e8&icon_color=6bd600" />
+  </a>
+  <a href="https://github.com/SekhGulamMainuddin/DSA-Problems">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SekhGulamMainuddin&repo=DSA-Problems&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=6bd600&text_color=e8e8e8&icon_color=6bd600" />
+  </a>
+</p>
+
+---
+
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="mailto:sekhgmainuddin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sekh-gulam-mainuddin-2614b020b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/SekhGulamMainuddin" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
