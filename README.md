@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sekh Gulam Mainuddin</h1>
-<h3 align="center">Software Development Engineer @ EMotorad</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SekhGulamMainuddin&label=Profile%20views&color=6bd600&style=flat" alt="profile views" />
-</p>
 
 ---
 
