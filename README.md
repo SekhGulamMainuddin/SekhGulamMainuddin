@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sekh Gulam Mainuddin</h1>
 
----
 
 - 🔭 Currently working as **SDE2 - Android @Dailyround/Marrow**
 - 🌱 Currently learning **KMP & CMP (Kotlin Multiplatform)**
