@@ -31,31 +31,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SekhGulamMainuddin&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=6bd600&icon_color=6bd600&text_color=e8e8e8" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SekhGulamMainuddin&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=6bd600&text_color=e8e8e8" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SekhGulamMainuddin&theme=github_dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SekhGulamMainuddin&theme=github_dark" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SekhGulamMainuddin&theme=dark&hide_border=true&background=0a0a0a&ring=6bd600&fire=6bd600&currStreakLabel=6bd600" />
-</p>
-
----
-
-### 📌 Pinned Projects
-
-<p align="left">
-  <a href="https://github.com/SekhGulamMainuddin/LearnWithFun">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SekhGulamMainuddin&repo=LearnWithFun&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=6bd600&text_color=e8e8e8&icon_color=6bd600" />
-  </a>
-  <a href="https://github.com/SekhGulamMainuddin/Time-Share">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SekhGulamMainuddin&repo=Time-Share&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=6bd600&text_color=e8e8e8&icon_color=6bd600" />
-  </a>
-  <a href="https://github.com/SekhGulamMainuddin/Zomato-Clone-Flutter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SekhGulamMainuddin&repo=Zomato-Clone-Flutter&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=6bd600&text_color=e8e8e8&icon_color=6bd600" />
-  </a>
-  <a href="https://github.com/SekhGulamMainuddin/DSA-Problems">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SekhGulamMainuddin&repo=DSA-Problems&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=6bd600&text_color=e8e8e8&icon_color=6bd600" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=SekhGulamMainuddin&theme=dark&hide_border=true&background=0a0a0a&ring=6bd600&fire=6bd600&currStreakLabel=6bd600" />
 </p>
 
 ---
